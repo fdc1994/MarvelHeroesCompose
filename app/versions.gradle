@@ -1,0 +1,9 @@
+ext.versions = [
+        nav_version: "2.5.2",
+        coil_version : "2.1.0",
+        lifecycle_version : "2.5.1",
+        retrofit_version : "2.9.0",
+        hilt_version : "2.43.2",
+        room_version : "2.4.2"
+]
+
